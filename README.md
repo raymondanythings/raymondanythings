@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raymond!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raymondanythings&label=Profile%20views&color=0e75b6&style=flat" alt="raymondanythings" /> </p>
 
-# ![output](https://user-images.githubusercontent.com/73725736/158999033-30de7288-fdfa-4de5-b43e-6fc14062be17.gif)
+[//]: <> # ![output](https://user-images.githubusercontent.com/73725736/158999033-30de7288-fdfa-4de5-b43e-6fc14062be17.gif)
 
 
 <div align=center>
