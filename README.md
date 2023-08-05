@@ -15,5 +15,5 @@
 </div>
 
 <br/><br/>
-<img src="https://wakatime.com/badge/user/e1454ff1-4a10-4059-a7b1-630fa4afbd6a.svg" alt="raymondanythings" />
+[![wakatime](https://wakatime.com/badge/user/e1454ff1-4a10-4059-a7b1-630fa4afbd6a.svg)](https://wakatime.com/@e1454ff1-4a10-4059-a7b1-630fa4afbd6a?style=default)
 
