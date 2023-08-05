@@ -17,8 +17,4 @@
 <br/><br/>
 
 
-<div align=center>
-  <a href="https://raymondanythings.github.io/raymondworld/" target="_blank"><img src="https://img.shields.io/badge/aboutme-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
-
 
